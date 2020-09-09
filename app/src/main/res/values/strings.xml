@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-hilt-example</string>
+    <string name="update_image_button_text">update image</string>
+    <string name="error_message_text">Something went wrong. Please try again later</string>
+</resources>
